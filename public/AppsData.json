@@ -1,0 +1,382 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Xk3HK920/Whats-App-svg.webp",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "WhatsApp is a global messaging and calling app that allows users to communicate securely and instantly across the world. It supports end‑to‑end encryption so that messages, calls, photos, and videos are only seen by the sender and receiver. Users can make voice and video calls, send text messages, share documents and media, participate in group chats, and use multi‑device support so that their account can be used on multiple devices. Additionally, WhatsApp offers features like disappearing messages (messages that delete after a set time), status updates (temporary posts), and integrations with contacts so users can quickly connect without needing extra usernames.",
+    "size": 34.5,
+    "reviews": "120K",
+    "ratingAvg": 4.4,
+    "downloads": "5M",
+    "downloadsCount": 5000000000,
+    "ratings": [
+      { "name": "5 star", "count": 8600000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "1 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xq9r2fJk/google-play-store-mobile-apps-logo-free-png.webp",
+    "title": "Play Store",
+    "companyName": "Google LLC",
+    "id": 2,
+    "description": "Google Play Store is the official app distribution platform for Android devices, providing a massive catalog of apps, games, movies, books, and other digital content. Users can browse, download, and install applications safely, read reviews and ratings before choosing an app, and receive automatic updates. The Play Store also supports in‑app purchases, subscriptions, family sharing, and developer tools. It ensures app security by scanning for malware and verifying app authenticity, and it integrates with Google accounts for seamless user experience across devices.",
+    "size": 25.1,
+    "reviews": "5M",
+    "ratingAvg": 4.3,
+    "downloads": "10M",
+    "downloadsCount": 1000000000,
+    "ratings": [
+      { "name": "5 star", "count": 3230000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "1 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Mkdh5Qkx/images.png",
+    "title": "Twitter",
+    "companyName": "X Corp (formerly Twitter, Inc.)",
+    "id": 3,
+    "description": "Twitter, now commonly referred to as X, is a real‑time social conversation platform where users post short messages (“tweets”), follow others, and engage via retweets, replies, and likes. It supports trending topics, hashtags, lists, and spaces for live voice conversations. Users can share text, images, videos, polls, and links. The platform is built for immediacy — so news, opinions, and public discourse often surface quickly. It also includes moderation tools, verification, and algorithmic feeds so users can see content most relevant to them, as well as chronological timelines for those who prefer raw recency.",
+    "size": 30.7,
+    "reviews": "2M",
+    "ratingAvg": 4.1,
+    "downloads": "8M",
+    "downloadsCount": 1000000000,
+    "ratings": [
+      { "name": "5 star", "count": 4700000 },
+      { "name": "4 star", "count": 2900000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "1 star", "count": 500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/PzWYTrYj/instagram-logo-vector-768467-330.jpg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 4,
+    "description": "Instagram is a social media platform focused on visual content — photos, videos, reels, and stories — enabling users to share moments, creativity, and experiences. It includes features like filters, editing tools, and effects for images and video clips. Users can post to their feed, share short-lived content in stories, upload longer videos via IGTV/Reels, explore content via the Explore tab, and engage with others through comments, likes, direct messages, and live streams. Instagram also supports business profiles, shopping tags, and advertising to help creators and brands reach audiences.",
+    "size": 28.4,
+    "reviews": "2M",
+    "ratingAvg": 4.2,
+    "downloads": "6M",
+    "downloadsCount": 2000000000,
+    "ratings": [
+      { "name": "5 star", "count": 7500000 },
+      { "name": "4 star", "count": 3100000 },
+      { "name": "3 star", "count": 750000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "1 star", "count": 600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/mVPQZvNY/Spotify-icon-svg.png",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 5,
+    "description": "Spotify is a leading music and podcast streaming service offering personalized listening experiences. Users can browse a vast catalog of songs, albums, and podcasts from around the world, create their own playlists, and follow curated or algorithmic recommendations. Spotify allows offline downloads (for premium users), high‑quality audio streaming, and cross‑device syncing so users can pick up where they left off. It also offers features like collaborative playlists, podcast subscriptions, and music discovery based on listening habits.",
+    "size": 40.8,
+    "reviews": "3M",
+    "ratingAvg": 4.5,
+    "downloads": "5M",
+    "downloadsCount": 1500000000,
+    "ratings": [
+      { "name": "5 star", "count": 5000000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "1 star", "count": 200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/nsL2y6zb/youtube-color-icons-1209566-1.jpg",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 6,
+    "description": "YouTube is the world’s largest video platform, enabling users to watch, upload, share, and discover videos for free. The content spans tutorials, music videos, vlogs, educational lectures, live streams, and more. Users can subscribe to channels, receive notifications of new uploads, comment, like, and share content. YouTube offers features like playlists, offline viewing (in supported regions), video recommendations, and monetization tools for creators. It also supports live streaming, premieres, and community posts.",
+    "size": 52.3,
+    "reviews": "150K",
+    "ratingAvg": 4.6,
+    "downloads": "4M",
+    "downloadsCount": 10000000000,
+    "ratings": [
+      { "name": "5 star", "count": 10800000 },
+      { "name": "4 star", "count": 3200000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "1 star", "count": 500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/pvqb5606/apps-47495-13634052595610511-c45457c9-b4af-46b0-8e61-8d7c0aec3f56.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "id": 7,
+    "description": "TikTok is a social media platform centered around short‑form video creation and discovery. Users can easily record, edit, and post videos (usually 15–60 seconds) with music, filters, effects, and transitions. The platform’s algorithm surfaces trending and personalized content to users based on engagement and viewing tastes. TikTok supports challenges, duets, stitches, hashtags, and creator monetization. Its format encourages creativity, rapid consumption, and viral sharing.",
+    "size": 45.5,
+    "reviews": "4M",
+    "ratingAvg": 4.3,
+    "downloads": "9M",
+    "downloadsCount": 3000000000,
+    "ratings": [
+      { "name": "5 star", "count": 4800000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "1 star", "count": 700000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ynbf70Wg/images.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 8,
+    "description": "Facebook is a wide‑ranging social networking platform where users connect, share, and engage across posts, photos, videos, events, groups, pages, and messaging. People can post status updates, join communities, follow public pages, organize events, and use marketplace for buying/selling. The platform includes features like stories, live video, reels, and a rich set of privacy and interaction controls. It integrates with other services in the Meta ecosystem (Messenger, Instagram) for seamless experience.",
+    "size": 43.6,
+    "reviews": "12M",
+    "ratingAvg": 4.1,
+    "downloads": "27M",
+    "downloadsCount": 5000000000,
+    "ratings": [
+      { "name": "5 star", "count": 10800000 },
+      { "name": "4 star", "count": 6400000 },
+      { "name": "3 star", "count": 1800000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "1 star", "count": 1200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/ym7MfqyT/google-mail-gmail-logo-icon-159346.png",
+    "title": "Gmail",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Gmail is Google’s email service that provides a reliable, secure, and feature‑rich platform for sending and receiving email. It includes powerful spam filtering, organization via labels and tabs, search across email history, integration with Google Workspace apps (Drive, Calendar, Docs), and support for multiple accounts. Gmail offers features like scheduled send, smart compose & reply, offline mode, and strong encryption for message transit.",
+    "size": 30.1,
+    "reviews": "2M",
+    "ratingAvg": 4.5,
+    "downloads": "8M",
+    "downloadsCount": 10000000000,
+    "ratings": [
+      { "name": "5 star", "count": 5550000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "1 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/0pPWB1cr/maps-96in128dp.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 10,
+    "description": "Google Maps provides real‑time GPS navigation, turn‑by‑turn directions, route planning, local business discovery, and traffic information worldwide. Users can view maps in different modes (satellite, terrain, transit), get walking, driving, transit, and biking directions, and estimate arrival times based on live traffic. The app also allows users to browse nearby restaurants, shops, and points of interest with reviews, photos, hours, and contact info. Street View, saved places, and offline maps are additional useful features.",
+    "size": 60.7,
+    "reviews": "5M",
+    "ratingAvg": 4.6,
+    "downloads": "9M",
+    "downloadsCount": 10000000000,
+    "ratings": [
+      { "name": "5 star", "count": 5800000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 200000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/239dmkSL/netflix-mobile-application-logo-free-png.webp",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "id": 11,
+    "description": "Netflix is a global streaming platform offering a vast library of movies, TV shows, documentaries, and original content. Users can browse by genre, get personalized recommendations, watch in high definition, and download select content for offline viewing. It supports multiple user profiles, parental controls, and simultaneous streaming on multiple devices. Netflix continuously adds new original series, films, and licensed content to engage its audience.",
+    "size": 60.2,
+    "reviews": "2M",
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "downloadsCount": 1000000000,
+    "ratings": [
+      { "name": "5 star", "count": 3850000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "1 star", "count": 400000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HpK1pF8y/vector-discord-social-media-logo-534308-21667.jpg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "id": 12,
+    "description": "Discord is a communication platform designed for communities — gamers, interest groups, teams — offering text, voice, and video chat in servers (group hubs). Users can create servers, channels (text or voice), roles, and permissions. You can share media, link accounts, stream screen/share. Discord supports direct messaging, notifications, bots, integrations, and customization so each server can feel unique and responsive to its community’s needs.",
+    "size": 48.5,
+    "reviews": "170K",
+    "ratingAvg": 4.6,
+    "downloads": "6M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 4600000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/sJ9w0J6P/4-2.jpg",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "id": 13,
+    "description": "Reddit is a network of communities (subreddits) where users submit content — links, images, text posts — and others vote, comment, and discuss. It functions as a huge forum ecosystem, organized by topics like news, memes, education, entertainment, etc. Reddit’s structure encourages deep discussion threads, voting to surface content, moderation by community moderators, and tools like gold awards, AMAs (Ask Me Anything), and live threads. It’s ideal for discovering niche interests and engaging in conversations.",
+    "size": 35.8,
+    "reviews": "30K",
+    "ratingAvg": 4.2,
+    "downloads": "7M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 2100000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "1 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/RTKHBGRS/i-Ww83-PVc-Bp-Lw.jpg",
+    "title": "Canva",
+    "companyName": "Canva Pty Ltd",
+    "id": 14,
+    "description": "Canva is an online design tool and platform that enables users (both beginners and professionals) to create graphics, presentations, posters, social media posts, logos, and more. It offers drag‑and‑drop templates, image assets, font libraries, animations, and collaboration features. Users can export designs in multiple formats (PNG, PDF, etc.), work across devices, use free and premium assets, and integrate with other tools for social posting or printing.",
+    "size": 55.7,
+    "reviews": "1M",
+    "ratingAvg": 4.8,
+    "downloads": "5M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 5300000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "1 star", "count": 90000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jP6vmShz/images.png",
+    "title": "Duolingo",
+    "companyName": "Duolingo, Inc.",
+    "id": 15,
+    "description": "Duolingo is a language‑learning app that makes learning new languages fun and gamified. It offers lessons in dozens of languages using bite‑sized exercises in listening, speaking, reading, and writing. Points, streaks, leaderboards, and rewards help motivate users. The app adapts difficulty dynamically based on user performance, gives reminders, and tracks progress over time to help learners stay on course.",
+    "size": 35.9,
+    "reviews": "4M",
+    "ratingAvg": 4.7,
+    "downloads": "6M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 3700000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "1 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Z1Hr5QNH/messenger-app-icon-facebook-meta-platforms-277909-524.jpg",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 16,
+    "description": "Messenger is a messaging app that enables instant text, voice, video chats, group conversations, and media sharing. It integrates with larger social platforms (e.g. Facebook / Meta), allowing users to connect with contacts easily. Features include stickers, reactions, voice messages, video calling, chat themes, and end‑to‑end encryption options (in secret conversations). It supports multi-device login and message sync.",
+    "size": 48.5,
+    "reviews": "3M",
+    "ratingAvg": 4.6,
+    "downloads": "10M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 4600000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "1 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/F4Ppyddb/linkedin-round-logo-vector-667864-108.jpg",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn Inc.",
+    "id": 17,
+    "description": "LinkedIn is a professional networking platform where individuals, companies, and professionals connect, share, and grow their careers. Users create profiles highlighting their education, work experience, skills, and projects. They can connect with colleagues, peers, recruiters, and industry professionals. LinkedIn enables posting of articles, status updates, job listings, and professional content. Users can follow companies, join groups, endorse skills of others, and receive job recommendations. Recruiters and businesses use LinkedIn to search for talent, advertise roles, and promote their brand. For users, LinkedIn helps with career building, networking, finding opportunities, sharing insights, and showcasing expertise.",
+    "size": 35.8,
+    "reviews": "3M",
+    "ratingAvg": 4.2,
+    "downloads": "5M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 2100000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "3 star", "count": 250000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "1 star", "count": 150000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/B5vz9D3h/Brand-Guidelines-hero-2x.webp",
+    "title": "Pinterest",
+    "companyName": "Pinterest Ltd",
+    "id": 18,
+    "description": "Pinterest is a visual discovery and bookmarking platform where users can find, save, and share ideas via “Pins.” Users browse content organized into categories such as home décor, fashion, food, DIY projects, travel, and more. When users see an image or video they like, they can save it to one of their personal “Boards” for future reference. Pinterest also enables searching by keywords and image (visual search), so users can find similar styles or ideas. The app suggests Pins and boards based on the users’ interests, and also allows users to upload their own content, add descriptions, links, and collaborate on shared boards. It serves as both an inspiration tool and a traffic driver — many Pins link back to blogs, shops, and websites.",
+    "size": 55.7,
+    "reviews": "240K",
+    "ratingAvg": 4.8,
+    "downloads": "7M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 5300000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "3 star", "count": 150000 },
+      { "name": "2 star", "count": 60000 },
+      { "name": "1 star", "count": 90000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/M5JKcC3W/images.png",
+    "title": "Threads (Thread)",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 19,
+    "description": "Threads (by Meta) is a conversation / microblogging app designed to allow users to post short text updates, interact with others, follow topics, and engage in public dialogues. It’s intended to complement existing social profiles by giving a space for more text‑centric content, replies, and threading discussions. Users can post short text, images, links, and replies; follow others and topics; see a feed curated by interests or connections; and reply / like / reshare content. It often emphasizes real‑time conversation and timely discourse, facilitating topic discovery, replies, and conversational threads in a more organized way. (Note: depending on exact platform features and region, capabilities such as rich media embedding, thread nesting, or cross‑platform integration may vary.)",
+    "size": 35.9,
+    "reviews": "4M",
+    "ratingAvg": 4.7,
+    "downloads": "7M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 3700000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "2 star", "count": 40000 },
+      { "name": "1 star", "count": 70000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7xTqPgpX/telegram-logo-telegram-icon-free-free-vector.jpg",
+    "title": "Telegram",
+    "companyName": "Telegram Inc.",
+    "id": 20,
+    "description": "Telegram is a cloud‑based instant messaging app that emphasizes speed, security, and features. Users can send messages, make voice and video calls, share media and files (including large ones), create group chats and channels, and use bots and APIs. Telegram supports end‑to‑end encryption in “Secret Chats,” self‑destructing messages, and cross‑platform syncing. It also enables large public or private communities and broadcasting via channels.",
+    "size": 40.0,
+    "reviews": "1M",
+    "ratingAvg": 4.0,
+    "downloads": "5M",
+    "downloadsCount": 500000000,
+    "ratings": [
+      { "name": "5 star", "count": 375000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "3 star", "count": 25000 },
+      { "name": "2 star", "count": 5000 },
+      { "name": "1 star", "count": 10000 }
+    ]
+  }
+]
