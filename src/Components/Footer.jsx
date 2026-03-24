@@ -61,8 +61,9 @@ const Footer = () => {
               </svg>
             </a>
           </div>
-        </nav>
+        </nav> 
       </footer>
+      {/* Footer links */}
       <h1 className="font-semibold text-center pb-5">
         Copyright © {new Date().getFullYear()} - All right reserved by{" "}
         <span className="bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-transparent bg-clip-text">
