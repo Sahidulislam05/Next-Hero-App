@@ -1,6 +1,8 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 
+// Custom hook to fetch apps data from a JSON file
+
 const useApps = () => {
   const [apps, setApps] = useState([]);
   const [loading, setLoading] = useState(true);

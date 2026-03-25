@@ -8,6 +8,8 @@ import ErrorPage from "../Pages/ErrorPage";
 import AppsDetails from "../Components/AppsDetails";
 import AppError from "../Components/AppError";
 
+// Create a router with nested routes and error handling
+
 const router = createBrowserRouter([
   {
     path: "/",
