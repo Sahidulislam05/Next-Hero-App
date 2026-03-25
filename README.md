@@ -137,9 +137,7 @@ src/
 
 ### Sahidul Islam
 
-#### 💼 President, TPI Computer Club
-
-#### 💻 Frontend Web Developer | Passionate about modern web apps
+#### 💻 MERN Web Developer
 
 ### 📄 License
 
